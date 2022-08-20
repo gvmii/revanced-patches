@@ -12,7 +12,7 @@ Official patches by ReVanced
 | `timeline-ads` | Removes ads from the Twitter timeline. | all |
 </details>
 
-### 📦 `com.reddit.frontpage`
+### 📦 `com.reddit.frontpage`d
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
