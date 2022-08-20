@@ -70,7 +70,7 @@ class CustomBrandingPatch : ResourcePatch() {
     override val options = PatchOptions(
         PatchOption.StringOption(
             key = keyAppName,
-            default = "YouTube ReVanced",
+            default = "GumiTube",
             title = "Application Name",
             description = "The name of the application it will show on your home screen.",
             required = true
